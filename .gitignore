@@ -130,3 +130,6 @@ dmypy.json
 
 # MacOs DS_Store
 .DS_Store
+
+# feriel
+ferielPokemon.ipynb 
